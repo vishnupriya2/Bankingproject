@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="3843" started-at="2017-09-24T09:55:50Z" finished-at="2017-09-24T09:55:54Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="3843" started-at="2017-09-24T09:55:50Z" finished-at="2017-09-24T09:55:54Z">
+      <class name="bankingProject.BankingProject">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:bankingProject.BankingProject@6cc4c815]" name="openBrowser" is-config="true" duration-ms="4317" started-at="2017-09-24T15:25:46Z" finished-at="2017-09-24T15:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openDemo()[pri:0, instance:bankingProject.BankingProject@6cc4c815]" name="openDemo" duration-ms="3809" started-at="2017-09-24T15:25:50Z" finished-at="2017-09-24T15:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDemo -->
+      </class> <!-- bankingProject.BankingProject -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
